@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful resourses.md",
+                "file": "полезные ссылки.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,10 +173,17 @@
   },
   "active": "ab3b861e359e7df5",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "useful resourses.md",
     "Сигма крафт.md",
     "сервис.md",
+=======
+>>>>>>> Stashed changes
     "Как пользоваться.md",
+    "полезные ссылки.md",
+    "сервис.md",
+    "Сигма крафт.md",
+    "Shosh.md",
     "aboba.md",
     "Dogdork.md",
     "Дискорд-сервер СК.md",
@@ -186,7 +193,6 @@
     "Лица не вошедшие в состав СК.md",
     "Shmyavlik.md",
     "Kaloglot.md",
-    "Shosh.md",
     "Ronyleno.md",
     "СК SMP.md",
     "Orange craft.md",

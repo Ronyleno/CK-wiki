@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Модовые сезоны.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1e9ca2313df8ad9",
+            "id": "5649c63d2473ef39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сервис.md",
+                "file": "Модовые сезоны.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,11 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервис.md",
+                "file": "Модовые сезоны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервис.md",
+                "file": "Модовые сезоны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервис.md"
+                "file": "Модовые сезоны.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1e9ca2313df8ad9",
+  "active": "5649c63d2473ef39",
   "lastOpenFiles": [
-    "рофло говно.md",
-    "Сигма крафт.md",
     "сервис.md",
-    "полезные ссылки.md",
-    "Как пользоваться.md"
+    "Сигма крафт.md",
+    "Словарь.md",
+    "Модовые сезоны.md",
+    "СК SMP.md",
+    "CK SMP.md",
+    "1 не относящееся к вики/Как пользоваться.md",
+    "1 не относящееся к вики",
+    "треш сборка.md",
+    "1 не относящееся к вики/рофло говно.md",
+    "1 не относящееся к вики/полезные ссылки.md"
   ]
 }

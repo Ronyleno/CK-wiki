@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "useful resourses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3b861e359e7df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как пользоваться.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Как пользоваться.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Как пользоваться.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Как пользоваться.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7f0fbd108666de1",
+  "active": "ab3b861e359e7df5",
   "lastOpenFiles": [
-    "сервис.md",
     "Сигма крафт.md",
-    "Dogdork.md",
+    "сервис.md",
     "useful resourses.md",
+    "Как пользоваться.md",
+    "aboba.md",
+    "Dogdork.md",
     "Дискорд-сервер СК.md",
     "Ayanokoji.md",
     "Макщ.md",

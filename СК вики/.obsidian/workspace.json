@@ -23,12 +23,8 @@
             "id": "5649c63d2473ef39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Academy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,18 +152,18 @@
   },
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
+    "Связан.md",
+    "Бюро ивентов СК.md",
+    "Макщ.md",
     "1 важные пометки/Заметочки.md",
     "Academy.md",
-    "Ayanokoji.md",
-    "Shosh.md",
-    "Бюро ивентов СК.md",
     "СК SMP.md",
     "список цитат макща.md",
-    "Сигма крафт.md",
-    "сервис.md",
-    "Связан.md",
     "Модовые сезоны.md",
-    "Макщ.md",
+    "сервис.md",
+    "Сигма крафт.md",
+    "Ayanokoji.md",
+    "Shosh.md",
     "Дискорд-сервер СК.md",
     "1 важные пометки/Словарь.md",
     "1 важные пометки/полезные ссылки.md",

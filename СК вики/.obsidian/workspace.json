@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Academy.md"
               }
             }
           }
@@ -161,15 +161,16 @@
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
     "1 важные пометки/Заметочки.md",
-    "1 важные пометки/Как пользоваться.md",
-    "Сигма крафт.md",
-    "1 важные пометки/полезные ссылки.md",
-    "сервис.md",
+    "Academy.md",
     "Модовые сезоны.md",
-    "Макщ.md",
-    "1 важные пометки/Словарь.md",
-    "1 важные пометки/рофло говно.md",
+    "сервис.md",
+    "Сигма крафт.md",
     "СК SMP.md",
+    "1 важные пометки/Словарь.md",
+    "1 важные пометки/полезные ссылки.md",
+    "1 важные пометки/Как пользоваться.md",
+    "Макщ.md",
+    "1 важные пометки/рофло говно.md",
     "CK SMP.md",
     "1 важные пометки",
     "треш сборка.md"

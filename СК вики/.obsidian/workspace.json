@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academy.md",
+                "file": "Бюро ивентов СК.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academy.md",
+                "file": "Бюро ивентов СК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academy.md",
+                "file": "Бюро ивентов СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academy.md"
+                "file": "Бюро ивентов СК.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
-    "список цитат макща.md",
     "1 важные пометки/Заметочки.md",
     "Academy.md",
     "СК SMP.md",
+    "список цитат макща.md",
     "Сигма крафт.md",
     "сервис.md",
     "Связан.md",

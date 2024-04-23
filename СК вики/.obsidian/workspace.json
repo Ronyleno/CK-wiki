@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Academy.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "9f98c1e3d44f22b4",
   "lastOpenFiles": [
-    "СК SMP.md",
     "Сигма крафт.md",
+    "Ayanokoji.md",
     "Academy.md",
+    "Shosh.md",
     "Модовые сезоны.md",
+    "СК SMP.md",
     "Связан.md",
     "Бюро ивентов СК.md",
     "сервис.md",
@@ -167,12 +169,10 @@
     "Как пользоваться.md",
     "aboba.md",
     "Dogdork.md",
-    "Ayanokoji.md",
     "Mattew.md",
     "Лица не вошедшие в состав СК.md",
     "Shmyavlik.md",
     "Kaloglot.md",
-    "Shosh.md",
     "Ronyleno.md",
     "Orange craft.md"
   ]

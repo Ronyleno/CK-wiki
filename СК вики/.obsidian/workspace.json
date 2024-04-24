@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
+                "file": "University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 важные пометки/Заметочки.md"
+                "file": "University.md"
               }
             }
           }
@@ -160,14 +160,15 @@
   },
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
+    "Academy.md",
+    "University.md",
+    "Модовые сезоны.md",
+    "1 важные пометки/Заметочки.md",
     "Связан.md",
     "Бюро ивентов СК.md",
     "Макщ.md",
-    "1 важные пометки/Заметочки.md",
-    "Academy.md",
     "СК SMP.md",
     "список цитат макща.md",
-    "Модовые сезоны.md",
     "сервис.md",
     "Сигма крафт.md",
     "Ayanokoji.md",

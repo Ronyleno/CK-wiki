@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
+                "file": "Бюро ивентов СК.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Бюро ивентов СК.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 важные пометки/Заметочки.md",
+                "file": "Бюро ивентов СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 важные пометки/Заметочки.md"
+                "file": "Бюро ивентов СК.md"
               }
             }
           }
@@ -160,23 +160,23 @@
   },
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
-    "Academy.md",
-    "University.md",
+    "1 важные пометки/Как пользоваться.md",
     "Модовые сезоны.md",
-    "1 важные пометки/Заметочки.md",
-    "Связан.md",
-    "Бюро ивентов СК.md",
-    "Макщ.md",
+    "1 важные пометки/полезные ссылки.md",
+    "University.md",
     "СК SMP.md",
     "список цитат макща.md",
+    "Связан.md",
     "сервис.md",
     "Сигма крафт.md",
+    "Academy.md",
     "Ayanokoji.md",
     "Shosh.md",
+    "1 важные пометки/Заметочки.md",
+    "Бюро ивентов СК.md",
+    "Макщ.md",
     "Дискорд-сервер СК.md",
     "1 важные пометки/Словарь.md",
-    "1 важные пометки/полезные ссылки.md",
-    "1 важные пометки/Как пользоваться.md",
     "1 важные пометки/рофло говно.md",
     "CK SMP.md",
     "1 важные пометки",

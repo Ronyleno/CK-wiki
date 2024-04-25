@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "d79414945af18853",
+    "id": "0a83c1da98b4ea9a",
     "type": "split",
     "children": [
       {
-        "id": "a6867b8f19d096a4",
+        "id": "a22da2228fe54487",
         "type": "tabs",
         "children": [
           {
-            "id": "0af81331afc58bf8",
+            "id": "9ca61dbc34ba6a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f0fbd108666de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "useful resourses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab3b861e359e7df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "18f5be4bd234d605",
+    "id": "e8f6718e847fddbc",
     "type": "split",
     "children": [
       {
-        "id": "51a0b98727f6544d",
+        "id": "96d509cbc10edaeb",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd31fae545539df",
+            "id": "0e1b2df508af2d8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "c2dbd849b9b1401e",
+            "id": "cf82ee02b5aafb19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "557b90059f6bff12",
+            "id": "4dd61d3e46edafe0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2de2c3be50ba8113",
+    "id": "dd6c5c517fb84ddd",
     "type": "split",
     "children": [
       {
-        "id": "65225e797877a774",
+        "id": "d57e070564817a12",
         "type": "tabs",
         "children": [
           {
-            "id": "23311ae88dadc2fd",
+            "id": "9c6f4e918cbbdea7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "864dc4ba652e2f37",
+            "id": "04ab3e7fa99cf121",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d6a527391a2363ab",
+            "id": "6ec94fe92fd61be5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "67f4d27b25567a41",
+            "id": "165ac9a1254c6c72",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "сервис.md"
               }
             }
           }
@@ -171,26 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab3b861e359e7df5",
+  "active": "9ca61dbc34ba6a42",
   "lastOpenFiles": [
-    "useful resourses.md",
+    "Модовые сезоны.md",
     "Сигма крафт.md",
-    "сервис.md",
-    "Как пользоваться.md",
-    "aboba.md",
-    "Dogdork.md",
-    "Дискорд-сервер СК.md",
-    "Ayanokoji.md",
-    "Макщ.md",
-    "Mattew.md",
-    "Лица не вошедшие в состав СК.md",
-    "Shmyavlik.md",
-    "Kaloglot.md",
-    "Shosh.md",
-    "Ronyleno.md",
+    "СК 1.md",
+    "СК 1,5.md",
     "СК SMP.md",
-    "Orange craft.md",
-    "модовые сезоны.md",
-    "Welcome.md"
+    "СК spontannost.md",
+    "список цитат макща.md",
+    "Макщ.md",
+    "Academy.md",
+    "Ayanokoji.md",
+    "Shosh.md"
   ]
 }

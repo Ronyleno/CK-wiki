@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "сервис.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "9ca61dbc34ba6a42",
   "lastOpenFiles": [
-    "СК SMP.md",
-    "список цитат макща.md",
-    "Academy.md",
     "Модовые сезоны.md",
     "Сигма крафт.md",
+    "СК 1.md",
+    "СК 1,5.md",
+    "СК SMP.md",
+    "СК spontannost.md",
+    "список цитат макща.md",
+    "Макщ.md",
+    "Academy.md",
     "Ayanokoji.md",
     "Shosh.md"
   ]

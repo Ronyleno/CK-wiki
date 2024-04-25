@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "d79414945af18853",
+    "id": "1fce14d1e119a5b3",
     "type": "split",
     "children": [
       {
-        "id": "a6867b8f19d096a4",
+        "id": "3c9fb3efba32b749",
         "type": "tabs",
         "children": [
           {
-            "id": "0af81331afc58bf8",
+            "id": "3e175debb9661591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "список цитат макща.md",
+                "file": "Модовые сезоны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5649c63d2473ef39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бюро ивентов СК.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "18f5be4bd234d605",
+    "id": "d462e03b4a6dd31a",
     "type": "split",
     "children": [
       {
-        "id": "51a0b98727f6544d",
+        "id": "d68736963471e286",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd31fae545539df",
+            "id": "0ee7f0cfbfb50f3b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "c2dbd849b9b1401e",
+            "id": "19b910faa802fb4d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "557b90059f6bff12",
+            "id": "6c9d4ae637f5aced",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +85,44 @@
     "width": 300
   },
   "right": {
-    "id": "2de2c3be50ba8113",
+    "id": "b6f38bdbc3fdd791",
     "type": "split",
     "children": [
       {
-        "id": "65225e797877a774",
+        "id": "e92baf8e9f51a807",
         "type": "tabs",
         "children": [
           {
-            "id": "23311ae88dadc2fd",
+            "id": "40896f1aabe7cbe4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "список цитат макща.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Бюро ивентов СК.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "864dc4ba652e2f37",
+            "id": "73dffc6e3a9c824b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "список цитат макща.md",
+                "file": "Бюро ивентов СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d6a527391a2363ab",
+            "id": "37ed9c5699faefe9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "67f4d27b25567a41",
+            "id": "d3ea3c38c5a19390",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "список цитат макща.md"
+                "file": "Бюро ивентов СК.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,34 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af81331afc58bf8",
+  "active": "5649c63d2473ef39",
   "lastOpenFiles": [
-    "University.md",
-    "Связан.md",
-    "СК spontannost.md",
-    "СК 1.md",
-    "СК 1,5.md",
-    "Academy.md",
-    "Vanilla+.md",
-    "1 важные пометки/Заметочки.md",
-    "список цитат макща.md",
-    "СК SMP.md",
-    "Сигма крафт.md",
-    "Бюро ивентов СК.md",
     "Макщ.md",
     "Модовые сезоны.md",
-    "1 важные пометки/Словарь.md",
     "сервис.md",
-    "Stoneblock.md",
+    "Сигма крафт.md",
+    "СК SMP.md",
+    "список цитат макща.md",
+    "Academy.md",
+    "University.md",
     "Ronyleno.md",
-    "1 важные пометки/полезные ссылки.md",
+    "Stoneblock.md",
+    "Vanilla+.md",
+    "1 важные пометки/Заметочки.md",
     "1 важные пометки/Как пользоваться.md",
-    "1 важные пометки",
-    "useful resourses.md",
-    "Как пользоваться.md",
-    "aboba.md",
-    "Dogdork.md",
+    "1 важные пометки/полезные ссылки.md",
+    "1 важные пометки/Словарь.md",
+    "Бюро ивентов СК.md",
+    "Связан.md",
+    "СК 1.md",
+    "СК 1,5.md",
+    "СК spontannost.md",
+    "Ayanokoji.md",
+    "Shosh.md",
     "Дискорд-сервер СК.md",
-    "Ayanokoji.md"
+    "1 важные пометки/рофло говно.md",
+    "CK SMP.md",
+    "1 важные пометки",
+    "треш сборка.md"
   ]
 }

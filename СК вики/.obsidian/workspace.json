@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0a83c1da98b4ea9a",
+    "id": "d79414945af18853",
     "type": "split",
     "children": [
       {
-        "id": "a22da2228fe54487",
+        "id": "a6867b8f19d096a4",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca61dbc34ba6a42",
+            "id": "0af81331afc58bf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сервис.md",
+                "file": "список цитат макща.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8f6718e847fddbc",
+    "id": "18f5be4bd234d605",
     "type": "split",
     "children": [
       {
-        "id": "96d509cbc10edaeb",
+        "id": "51a0b98727f6544d",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1b2df508af2d8e",
+            "id": "fbd31fae545539df",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cf82ee02b5aafb19",
+            "id": "c2dbd849b9b1401e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4dd61d3e46edafe0",
+            "id": "557b90059f6bff12",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "dd6c5c517fb84ddd",
+    "id": "2de2c3be50ba8113",
     "type": "split",
     "children": [
       {
-        "id": "d57e070564817a12",
+        "id": "65225e797877a774",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6f4e918cbbdea7",
+            "id": "23311ae88dadc2fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервис.md",
+                "file": "список цитат макща.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "04ab3e7fa99cf121",
+            "id": "864dc4ba652e2f37",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервис.md",
+                "file": "список цитат макща.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6ec94fe92fd61be5",
+            "id": "d6a527391a2363ab",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "165ac9a1254c6c72",
+            "id": "67f4d27b25567a41",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервис.md"
+                "file": "список цитат макща.md"
               }
             }
           }
@@ -146,18 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ca61dbc34ba6a42",
+  "active": "0af81331afc58bf8",
   "lastOpenFiles": [
-    "Модовые сезоны.md",
+    "Academy.md",
+    "Vanilla+.md",
+    "1 важные пометки/Заметочки.md",
+    "список цитат макща.md",
+    "СК spontannost.md",
+    "СК SMP.md",
     "Сигма крафт.md",
     "СК 1.md",
-    "СК 1,5.md",
-    "СК SMP.md",
-    "СК spontannost.md",
-    "список цитат макща.md",
+    "Бюро ивентов СК.md",
     "Макщ.md",
-    "Academy.md",
+    "Модовые сезоны.md",
+    "Связан.md",
+    "1 важные пометки/Словарь.md",
+    "сервис.md",
+    "Stoneblock.md",
+    "СК 1,5.md",
+    "Ronyleno.md",
+    "1 важные пометки/полезные ссылки.md",
+    "1 важные пометки/Как пользоваться.md",
+    "1 важные пометки",
+    "useful resourses.md",
+    "Как пользоваться.md",
+    "aboba.md",
+    "Dogdork.md",
+    "Дискорд-сервер СК.md",
     "Ayanokoji.md",
-    "Shosh.md"
+    "Mattew.md"
   ]
 }

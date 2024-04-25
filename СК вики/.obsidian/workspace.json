@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бюро ивентов СК.md"
+                "file": "University.md"
               }
             }
           }
@@ -160,21 +160,21 @@
   },
   "active": "5649c63d2473ef39",
   "lastOpenFiles": [
-    "1 важные пометки/Как пользоваться.md",
-    "Модовые сезоны.md",
-    "1 важные пометки/полезные ссылки.md",
+    "сервис.md",
     "University.md",
+    "Сигма крафт.md",
     "СК SMP.md",
+    "Academy.md",
+    "Макщ.md",
+    "Модовые сезоны.md",
+    "Бюро ивентов СК.md",
+    "1 важные пометки/Как пользоваться.md",
+    "1 важные пометки/полезные ссылки.md",
     "список цитат макща.md",
     "Связан.md",
-    "сервис.md",
-    "Сигма крафт.md",
-    "Academy.md",
     "Ayanokoji.md",
     "Shosh.md",
     "1 важные пометки/Заметочки.md",
-    "Бюро ивентов СК.md",
-    "Макщ.md",
     "Дискорд-сервер СК.md",
     "1 важные пометки/Словарь.md",
     "1 важные пометки/рофло говно.md",

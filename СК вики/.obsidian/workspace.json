@@ -104,19 +104,67 @@
             }
           },
           {
-            "id": "f7c5b504dedd035f",
+            "id": "4792feaa04fcb492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a365efcdf6649872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac1e1633c871031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27f7c05f7688088e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "567720f681f2b84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -167,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Макщ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Макщ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Макщ.md"
               }
             }
           }
@@ -244,12 +292,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7c5b504dedd035f",
+  "active": "567720f681f2b84d",
   "lastOpenFiles": [
-    "Макщ.md",
     "conflict-files-obsidian-git.md",
-    "git test.md",
+    "Макщ.md",
     "University.md",
+    "git test.md",
     "😂.md",
     "Модовые сезоны.md",
     "Сигма крафт.md",

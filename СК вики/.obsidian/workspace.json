@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Макщ.md"
+                "file": "University.md"
               }
             }
           }
@@ -246,8 +246,8 @@
   },
   "active": "f7c5b504dedd035f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Макщ.md",
+    "conflict-files-obsidian-git.md",
     "git test.md",
     "University.md",
     "😂.md",

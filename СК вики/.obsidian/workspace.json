@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,9 +149,10 @@
   },
   "active": "3e175debb9661591",
   "lastOpenFiles": [
+    "git test.md",
+    "University.md",
     "Сигма крафт.md",
     "Модовые сезоны.md",
-    "University.md",
     "Academy.md",
     "1 важные пометки/Заметочки.md",
     "1 важные пометки/Словарь.md",

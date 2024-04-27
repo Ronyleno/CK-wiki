@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Макщ.md"
+                "file": "University.md"
               }
             }
           }
@@ -150,18 +150,18 @@
   "active": "9ca61dbc34ba6a42",
   "lastOpenFiles": [
     "Модовые сезоны.md",
+    "Сигма крафт.md",
+    "список цитат макща.md",
+    "Макщ.md",
     "Бюро ивентов СК.md",
     "git test.md",
     "University.md",
-    "Макщ.md",
     "Связан.md",
     "сервис.md",
-    "Сигма крафт.md",
     "СК 1.md",
     "СК 1,5.md",
     "СК SMP.md",
     "СК spontannost.md",
-    "список цитат макща.md",
     "Academy.md",
     "Ayanokoji.md",
     "Shosh.md"

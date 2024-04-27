@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Макщ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Макщ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Макщ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бюро ивентов СК.md"
+                "file": "Макщ.md"
               }
             }
           }
@@ -143,13 +143,17 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0e1b2df508af2d8e",
+  "active": "9ca61dbc34ba6a42",
   "lastOpenFiles": [
-    "Макщ.md",
     "Модовые сезоны.md",
+    "Бюро ивентов СК.md",
+    "git test.md",
+    "University.md",
+    "Макщ.md",
     "Связан.md",
     "сервис.md",
     "Сигма крафт.md",
@@ -159,7 +163,6 @@
     "СК spontannost.md",
     "список цитат макща.md",
     "Academy.md",
-    "Бюро ивентов СК.md",
     "Ayanokoji.md",
     "Shosh.md"
   ]

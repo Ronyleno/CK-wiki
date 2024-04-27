@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1d43600ff232608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f713f79ddf99c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7c5b504dedd035f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макщ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -208,14 +244,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a58e50b44f31f8c1",
+  "active": "f7c5b504dedd035f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Макщ.md",
+    "git test.md",
     "University.md",
     "😂.md",
     "Модовые сезоны.md",
-    "git test.md",
     "Сигма крафт.md",
     "Academy.md",
     "1 важные пометки/Заметочки.md",

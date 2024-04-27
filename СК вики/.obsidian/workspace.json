@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e175debb9661591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70412797044f313f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edd04a658ca14dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5518d36c798a90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21a32d3e1a290efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a58e50b44f31f8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d43600ff232608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f713f79ddf99c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4792feaa04fcb492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a365efcdf6649872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fac1e1633c871031",
             "type": "leaf",
             "state": {
@@ -145,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "567720f681f2b84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Макщ.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Макщ.md"
+                "file": "University.md"
               }
             }
           }
@@ -292,16 +160,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "567720f681f2b84d",
+  "active": "27f7c05f7688088e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Макщ.md",
-    "University.md",
     "git test.md",
+    "University.md",
+    "Academy.md",
+    "conflict-files-obsidian-git.md",
     "😂.md",
     "Модовые сезоны.md",
     "Сигма крафт.md",
-    "Academy.md",
     "1 важные пометки/Заметочки.md",
     "1 важные пометки/Словарь.md",
     "photo.jpg",

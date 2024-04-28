@@ -13,62 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Макщ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27f7c05f7688088e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "рандомная инфа/Очень важные заметки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7fcf7e2069f4478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "рандомная инфа/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848b5161d65f5ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "рандомная инфа/Очень важные заметки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbb3708d9b1776c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "University.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f1c7a8133970402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "excalidraw test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,12 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "рандомная инфа/Git.md",
+                "file": "University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "mattew",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dogdork",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "рандомная инфа/Git.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "рандомная инфа/Git.md"
+                "file": "University.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,38 +156,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7fcf7e2069f4478",
+  "active": "fac1e1633c871031",
   "lastOpenFiles": [
+    "Academy.md",
+    "список цитат макща.md",
+    "СК SMP.md",
+    "сервис.md",
+    "Модовые сезоны.md",
+    "Макщ.md",
+    "Бюро ивентов СК.md",
+    "Excalidraw/Drawing 2024-04-28 19.41.31.excalidraw.md",
+    "Сигма крафт.md",
+    "Pasted Image 20240428195515_416.jpg",
+    "Pasted Image 20240428194317_442.png",
+    "Excalidraw/Drawing 2024-04-28 19.22.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.26.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.25.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.25.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.25.21_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.25.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.24.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.31.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.30.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-28 19.30.00.excalidraw.md",
+    "excalidraw test.md",
+    "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
+    "рандомная инфа/Очень важные заметки.md",
     "University.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "рандомная инфа/Git.md",
     "рандомная инфа/Сноски.md",
     "рандомная инфа/Теги.md",
     "рандомная инфа/полезные ссылки.md",
-    "рандомная инфа/Очень важные заметки.md",
-    "DogDork.md",
-    "рандомная инфа/Словарь.md",
-    "рандомная инфа/Git.md",
-    "Academy.md",
-    "Dogdork.md",
-    "Сигма крафт.md",
-    "Модовые сезоны.md",
-    "СК SMP.md",
-    "[Admonitions.md",
-    "conflict-files-obsidian-git.md",
-    "1 важные пометки/Как пользоваться.md",
-    "git test.md",
-    "Макщ.md",
-    "😂.md",
     "photo.jpg",
-    "список цитат макща.md",
-    "Бюро ивентов СК.md",
-    "сервис.md",
-    "Ronyleno.md",
-    "Stoneblock.md",
-    "Vanilla+.md",
-    "Связан.md",
     "рандомная инфа"
   ]
 }

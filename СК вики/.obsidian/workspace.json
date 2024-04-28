@@ -11,8 +11,12 @@
             "id": "06bc35ea314961c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "рандомная инфа/Словарь.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "рандомная инфа/Словарь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "рандомная инфа/Словарь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "рандомная инфа/Словарь.md"
+              }
             }
           }
         ]
@@ -135,19 +143,20 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "06bc35ea314961c2",
   "lastOpenFiles": [
-    "1 важные пометки/Заметочки.md",
-    "рандомная инфа/Теги.md",
-    "рандомная инфа/Сноски.md",
-    "рандомная инфа/Словарь.md",
     "рандомная инфа/полезные ссылки.md",
     "рандомная инфа/Очень важные заметки.md",
     "рандомная инфа/Git.md",
+    "рандомная инфа/Теги.md",
+    "рандомная инфа/Сноски.md",
+    "рандомная инфа/Словарь.md",
+    "список цитат макща.md",
+    "Макщ.md",
+    "1 важные пометки/Заметочки.md",
     "рандомная инфа",
     "excalidraw test.md",
     "Сигма крафт.md",

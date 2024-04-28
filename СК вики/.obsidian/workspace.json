@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0a83c1da98b4ea9a",
+    "id": "0fa979c3c348760c",
     "type": "split",
     "children": [
       {
-        "id": "a22da2228fe54487",
+        "id": "1d8660d1adbc2db6",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca61dbc34ba6a42",
+            "id": "06bc35ea314961c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "1 важные пометки/Заметочки.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8f6718e847fddbc",
+    "id": "a0cb436cb1c855b7",
     "type": "split",
     "children": [
       {
-        "id": "96d509cbc10edaeb",
+        "id": "a20ef694957612a0",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1b2df508af2d8e",
+            "id": "e647f62a601b6d89",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cf82ee02b5aafb19",
+            "id": "b387947b1ef2be9b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4dd61d3e46edafe0",
+            "id": "f0932eae969c6b5d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "dd6c5c517fb84ddd",
+    "id": "4bee665c00369c7b",
     "type": "split",
     "children": [
       {
-        "id": "d57e070564817a12",
+        "id": "06ee1be6d97f3de3",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6f4e918cbbdea7",
+            "id": "6908ae503d3a4878",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "1 важные пометки/Заметочки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "04ab3e7fa99cf121",
+            "id": "32e8739494979958",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "1 важные пометки/Заметочки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6ec94fe92fd61be5",
+            "id": "94dd34de9bb1cb61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "165ac9a1254c6c72",
+            "id": "42cee2ec6ac706e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "1 важные пометки/Заметочки.md"
               }
             }
           }
@@ -147,23 +147,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ca61dbc34ba6a42",
+  "active": "06bc35ea314961c2",
   "lastOpenFiles": [
-    "Модовые сезоны.md",
     "Сигма крафт.md",
-    "список цитат макща.md",
-    "Макщ.md",
-    "Бюро ивентов СК.md",
-    "git test.md",
+    "1 важные пометки/Словарь.md",
+    "1 важные пометки/полезные ссылки.md",
+    "1 важные пометки/Как пользоваться.md",
+    "1 важные пометки/Заметочки.md",
     "University.md",
-    "Связан.md",
-    "сервис.md",
-    "СК 1.md",
-    "СК 1,5.md",
-    "СК SMP.md",
-    "СК spontannost.md",
-    "Academy.md",
-    "Ayanokoji.md",
-    "Shosh.md"
+    "Модовые сезоны.md"
   ]
 }

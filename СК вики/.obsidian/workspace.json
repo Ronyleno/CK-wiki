@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "045ae116e09cf7e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "рандомная инфа/Теги.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f1c7a8133970402",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "рандомная инфа/Теги.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "рандомная инфа/Теги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "рандомная инфа/Теги.md"
               }
             }
           }
@@ -160,17 +173,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fac1e1633c871031",
+  "active": "045ae116e09cf7e2",
   "lastOpenFiles": [
+    "рандомная инфа/Сноски.md",
+    "University.md",
+    "excalidraw test.md",
     "Academy.md",
     "список цитат макща.md",
+    "Сигма крафт.md",
     "СК SMP.md",
     "сервис.md",
     "Модовые сезоны.md",
     "Макщ.md",
     "Бюро ивентов СК.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-04-28 19.41.31.excalidraw.md",
-    "Сигма крафт.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Excalidraw/Drawing 2024-04-28 19.22.30.excalidraw.md",
@@ -183,16 +200,12 @@
     "Excalidraw/Drawing 2024-04-28 19.31.28.excalidraw.md",
     "Excalidraw/Drawing 2024-04-28 19.30.15.excalidraw.md",
     "Excalidraw/Drawing 2024-04-28 19.30.00.excalidraw.md",
-    "excalidraw test.md",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
     "рандомная инфа/Очень важные заметки.md",
-    "University.md",
     "Excalidraw",
     "Untitled.canvas",
     "рандомная инфа/Git.md",
-    "рандомная инфа/Сноски.md",
     "рандомная инфа/Теги.md",
-    "рандомная инфа/полезные ссылки.md",
     "photo.jpg",
     "рандомная инфа"
   ]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "рандомная инфа/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "рандомная инфа/Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "рандомная инфа/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "рандомная инфа/Git.md"
               }
             }
           }
@@ -197,19 +197,19 @@
   },
   "active": "d7fcf7e2069f4478",
   "lastOpenFiles": [
-    "Academy.md",
     "University.md",
+    "рандомная инфа/Сноски.md",
     "рандомная инфа/Теги.md",
+    "рандомная инфа/полезные ссылки.md",
+    "рандомная инфа/Очень важные заметки.md",
     "DogDork.md",
+    "рандомная инфа/Словарь.md",
+    "рандомная инфа/Git.md",
+    "Academy.md",
     "Dogdork.md",
     "Сигма крафт.md",
     "Модовые сезоны.md",
     "СК SMP.md",
-    "рандомная инфа/Сноски.md",
-    "рандомная инфа/Очень важные заметки.md",
-    "рандомная инфа/полезные ссылки.md",
-    "рандомная инфа/Словарь.md",
-    "рандомная инфа/Git.md",
     "[Admonitions.md",
     "conflict-files-obsidian-git.md",
     "1 важные пометки/Как пользоваться.md",

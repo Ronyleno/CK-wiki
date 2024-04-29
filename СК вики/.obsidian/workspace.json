@@ -100,7 +100,7 @@
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "mattew",
+                "searchQuery": "r",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,11 +177,11 @@
   "lastOpenFiles": [
     "Academy.md",
     "University.md",
+    "СК SMP.md",
     "Идеи для СК 2.md",
     "Бюро ивентов СК.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "СК SMP.md",
     "dr.md",
     "СК-games.md",
     "рандомная инфа/Сноски.md",

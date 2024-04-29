@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "534e78efbb5fc66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервис.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервис.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервис.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -149,10 +162,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a21ca8c9febe4570",
+  "active": "534e78efbb5fc66a",
   "lastOpenFiles": [
-    "Сигма крафт.md",
     "сервис.md",
+    "conflict-files-obsidian-git.md",
+    "Идеи для СК 2.md",
+    "Сигма крафт.md",
     "СК SMP.md",
     "СК-games.md",
     "Модовые сезоны.md",
@@ -164,7 +179,6 @@
     "список цитат макща.md",
     "Academy.md",
     "University.md",
-    "conflict-files-obsidian-git.md",
     "рандомная инфа/Словарь.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "excalidraw test.md",

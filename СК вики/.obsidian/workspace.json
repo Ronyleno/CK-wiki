@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21890ed243a8f0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "сервис.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "сервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "сервис.md"
               }
             }
           },
@@ -147,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,32 +149,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "21890ed243a8f0ce",
+  "active": "a21ca8c9febe4570",
   "lastOpenFiles": [
     "Сигма крафт.md",
-    "conflict-files-obsidian-git.md",
+    "сервис.md",
     "СК SMP.md",
     "СК-games.md",
-    "рандомная инфа/Теги.md",
-    "рандомная инфа/Словарь.md",
-    "рандомная инфа/Сноски.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "Модовые сезоны.md",
     "Бюро ивентов СК.md",
+    "рандомная инфа/Теги.md",
     "Макщ.md",
-    "сервис.md",
-    "Academy.md",
-    "excalidraw test.md",
-    "University.md",
+    "рандомная инфа/Сноски.md",
     "рандомная инфа/Git.md",
+    "список цитат макща.md",
+    "Academy.md",
+    "University.md",
+    "conflict-files-obsidian-git.md",
+    "рандомная инфа/Словарь.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "excalidraw test.md",
     "рандомная инфа/Очень важные заметки.md",
     "рандомная инфа/полезные ссылки.md",
     "Excalidraw",
-    "список цитат макща.md",
     "1 важные пометки/Заметочки.md",
     "рандомная инфа",
     "1 важные пометки/Словарь.md",
     "1 важные пометки/полезные ссылки.md",
-    "1 важные пометки/Как пользоваться.md",
-    "Модовые сезоны.md"
+    "1 важные пометки/Как пользоваться.md"
   ]
 }

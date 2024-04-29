@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec922a61d2afa7a3",
+        "id": "0fa1f89542943f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "a21ca8c9febe4570",
+            "id": "0ec0715de8cc32c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "534e78efbb5fc66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "сервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "сервис.md"
               }
             }
           },
@@ -162,25 +149,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "534e78efbb5fc66a",
+  "active": "0ec0715de8cc32c9",
   "lastOpenFiles": [
-    "сервис.md",
-    "conflict-files-obsidian-git.md",
-    "Идеи для СК 2.md",
-    "Сигма крафт.md",
-    "СК SMP.md",
+    "Academy.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "University.md",
+    "список цитат макща.md",
+    "рандомная инфа/Теги.md",
     "СК-games.md",
+    "conflict-files-obsidian-git.md",
+    "Лица не вошедшие в состав СК.md",
+    "Сигма крафт.md",
+    "Связанные личности.md",
+    "сервис.md",
+    "Идеи для СК 2.md",
+    "СК SMP.md",
     "Модовые сезоны.md",
     "Бюро ивентов СК.md",
-    "рандомная инфа/Теги.md",
     "Макщ.md",
     "рандомная инфа/Сноски.md",
     "рандомная инфа/Git.md",
-    "список цитат макща.md",
-    "Academy.md",
-    "University.md",
     "рандомная инфа/Словарь.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "excalidraw test.md",
     "рандомная инфа/Очень важные заметки.md",
     "рандомная инфа/полезные ссылки.md",

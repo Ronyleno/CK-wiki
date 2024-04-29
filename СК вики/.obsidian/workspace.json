@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a4fcbd7fe881139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,24 +185,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d0947063d99004d",
+  "active": "9a4fcbd7fe881139",
   "lastOpenFiles": [
-    "Academy.md",
-    "University.md",
-    "СК SMP.md",
-    "Идеи для СК 2.md",
-    "Бюро ивентов СК.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "dr.md",
-    "СК-games.md",
-    "рандомная инфа/Сноски.md",
-    "excalidraw test.md",
+    "Academy.md",
     "список цитат макща.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "СК SMP.md",
+    "СК-games.md",
     "Сигма крафт.md",
     "сервис.md",
     "Модовые сезоны.md",
     "Макщ.md",
+    "Идеи для СК 2.md",
+    "Бюро ивентов СК.md",
+    "University.md",
+    "dr.md",
+    "рандомная инфа/Сноски.md",
+    "excalidraw test.md",
     "Excalidraw/Drawing 2024-04-28 19.41.31.excalidraw.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",

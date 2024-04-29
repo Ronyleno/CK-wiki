@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Academy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Academy.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "2d0947063d99004d",
   "lastOpenFiles": [
-    "Идеи для СК 2.md",
     "University.md",
+    "Идеи для СК 2.md",
     "Бюро ивентов СК.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "сервис.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "сервис.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#wip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "сервис.md"
               }
             }
           }
@@ -187,19 +187,19 @@
   },
   "active": "9a4fcbd7fe881139",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Academy.md",
-    "список цитат макща.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "СК SMP.md",
-    "СК-games.md",
-    "Сигма крафт.md",
-    "сервис.md",
     "Модовые сезоны.md",
     "Макщ.md",
     "Идеи для СК 2.md",
     "Бюро ивентов СК.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "сервис.md",
     "University.md",
+    "conflict-files-obsidian-git.md",
+    "Academy.md",
+    "список цитат макща.md",
+    "СК SMP.md",
+    "СК-games.md",
+    "Сигма крафт.md",
     "dr.md",
     "рандомная инфа/Сноски.md",
     "excalidraw test.md",

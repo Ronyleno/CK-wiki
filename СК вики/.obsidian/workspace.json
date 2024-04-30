@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efc515eb6539929a",
+        "id": "c1204cabd767bb91",
         "type": "tabs",
         "children": [
           {
-            "id": "9129f366aeed10a4",
+            "id": "d0271afe61cfc3f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Молодые(еблан) сезоны.md",
+                "file": "Cервис.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Молодые(еблан) сезоны.md",
+                "file": "Cервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Молодые(еблан) сезоны.md",
+                "file": "Cервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Молодые(еблан) сезоны.md"
+                "file": "Cервис.md"
               }
             }
           },
@@ -149,14 +149,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9129f366aeed10a4",
+  "active": "d0271afe61cfc3f9",
   "lastOpenFiles": [
-    "Cервис.md",
     "Островной сезон.md",
+    "Cервис.md",
     "Молодые(еблан) сезоны.md",
+    "Сигма крафт.md",
     "СК-games.md",
     "Ayanokoji.md",
-    "Сигма крафт.md",
     "СК SMP.md",
     "Связанные личности.md",
     "Модовые сезоны.md",

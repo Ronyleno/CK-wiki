@@ -37,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University.md",
+                "file": "Бюро ивентов СК.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a4fcbd7fe881139",
+            "id": "330729603ad9caa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сервис.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервис.md",
+                "file": "Бюро ивентов СК.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервис.md",
+                "file": "Бюро ивентов СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервис.md"
+                "file": "Бюро ивентов СК.md"
               }
             }
           }
@@ -185,23 +185,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a4fcbd7fe881139",
+  "active": "2d0947063d99004d",
   "lastOpenFiles": [
-    "Модовые сезоны.md",
-    "сервис.md",
-    "Связанные личности.md",
+    "Идеи для СК 2.md",
     "Макщ.md",
     "Лица не вошедшие в состав СК.md",
-    "Идеи для СК 2.md",
-    "Бюро ивентов СК.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "conflict-files-obsidian-git.md",
+    "Модовые сезоны.md",
+    "Молодые(еблан) сезоны.md",
     "University.md",
-    "Academy.md",
-    "список цитат макща.md",
+    "Островной сезон.md",
+    "Связанные личности.md",
+    "Сигма крафт.md",
     "СК SMP.md",
     "СК-games.md",
-    "Сигма крафт.md",
+    "список цитат макща.md",
+    "Academy.md",
+    "Ayanokoji.md",
+    "Cервис.md",
+    "conflict-files-obsidian-git.md",
+    "сервис.md",
+    "Бюро ивентов СК.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "dr.md",
     "рандомная инфа/Сноски.md",
     "excalidraw test.md",
@@ -211,10 +215,6 @@
     "Excalidraw/Drawing 2024-04-28 19.22.30.excalidraw.md",
     "Excalidraw/Drawing 2024-04-28 19.26.03.excalidraw.md",
     "Excalidraw/Drawing 2024-04-28 19.25.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-28 19.25.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-28 19.25.21_0.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-28 19.25.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-28 19.24.07.excalidraw.md",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
     "Excalidraw",
     "Untitled.canvas",

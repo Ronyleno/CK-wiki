@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бюро ивентов СК.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "330729603ad9caa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cервис.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Cервис.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Cервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бюро ивентов СК.md"
+                "file": "Cервис.md"
               }
             }
           }
@@ -187,25 +175,25 @@
   },
   "active": "2d0947063d99004d",
   "lastOpenFiles": [
-    "Идеи для СК 2.md",
-    "Макщ.md",
-    "Лица не вошедшие в состав СК.md",
-    "Модовые сезоны.md",
-    "Молодые(еблан) сезоны.md",
     "University.md",
-    "Островной сезон.md",
-    "Связанные личности.md",
-    "Сигма крафт.md",
-    "СК SMP.md",
+    "Идеи для СК 2.md",
+    "Бюро ивентов СК.md",
     "СК-games.md",
+    "СК SMP.md",
+    "Сигма крафт.md",
+    "Молодые(еблан) сезоны.md",
+    "Модовые сезоны.md",
+    "Макщ.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "список цитат макща.md",
     "Academy.md",
-    "Ayanokoji.md",
     "Cервис.md",
+    "Лица не вошедшие в состав СК.md",
+    "Островной сезон.md",
+    "Связанные личности.md",
+    "Ayanokoji.md",
     "conflict-files-obsidian-git.md",
     "сервис.md",
-    "Бюро ивентов СК.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "dr.md",
     "рандомная инфа/Сноски.md",
     "excalidraw test.md",

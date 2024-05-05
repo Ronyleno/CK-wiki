@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Terra firma.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Terra firma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Terra firma.md"
               }
             }
           }
@@ -185,10 +185,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19b910faa802fb4d",
+  "active": "ff6397ed12c01dd5",
   "lastOpenFiles": [
-    "Модовые сезоны.md",
     "University.md",
+    "Модовые сезоны.md",
     "Лайтовая рпг сборочка.md",
     "Academy.md",
     "Cервис.md",

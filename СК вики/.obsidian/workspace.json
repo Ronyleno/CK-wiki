@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra firma.md",
+                "file": "University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terra firma.md",
+                "file": "University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra firma.md"
+                "file": "University.md"
               }
             }
           }
@@ -185,15 +185,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff6397ed12c01dd5",
+  "active": "19b910faa802fb4d",
   "lastOpenFiles": [
-    "Academy.md",
-    "Terra firma.md",
     "Модовые сезоны.md",
-    "Сигма крафт.md",
-    "Прото-сервис.md",
-    "Cервис.md",
     "University.md",
+    "Лайтовая рпг сборочка.md",
+    "Academy.md",
+    "Cервис.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "Сигма крафт.md",
+    "Terra firma.md",
+    "Прото-сервис.md",
     "СК SMP.md",
     "СК-games.md",
     "прото-сервис.md",
@@ -203,7 +205,6 @@
     "Макщ.md",
     "Идеи для СК 2.md",
     "Бюро ивентов СК.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Лица не вошедшие в состав СК.md",
     "Островной сезон.md",
     "Связанные личности.md",
@@ -212,7 +213,6 @@
     "dr.md",
     "рандомная инфа/Сноски.md",
     "excalidraw test.md",
-    "Excalidraw/Drawing 2024-04-28 19.41.31.excalidraw.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

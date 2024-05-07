@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra firma.md",
+                "file": "Сигма крафт.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra firma.md",
+                "file": "Сигма крафт.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terra firma.md",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra firma.md"
+                "file": "Сигма крафт.md"
               }
             }
           }
@@ -187,19 +187,23 @@
   },
   "active": "ff6397ed12c01dd5",
   "lastOpenFiles": [
-    "University.md",
-    "Модовые сезоны.md",
-    "Лайтовая рпг сборочка.md",
-    "Academy.md",
-    "Cервис.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "Сигма крафт.md",
-    "Terra firma.md",
-    "Прото-сервис.md",
-    "СК SMP.md",
     "СК-games.md",
-    "прото-сервис.md",
+    "СК SMP.md",
+    "Лайтовая рпг сборочка.md",
+    "Связанные личности.md",
+    "Сигма крафт.md",
+    "Прото-сервис.md",
+    "[СборОчка.md",
+    "Cервис.md",
+    "Модовые сезоны.md",
+    "Треш сборка.md",
+    "Academy.md",
+    "University.md",
+    "Враги СК.md",
     "DogDork.md",
+    "Terra firma.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "прото-сервис.md",
     "conflict-files-obsidian-git.md",
     "список цитат макща.md",
     "Макщ.md",
@@ -207,12 +211,8 @@
     "Бюро ивентов СК.md",
     "Лица не вошедшие в состав СК.md",
     "Островной сезон.md",
-    "Связанные личности.md",
     "Ayanokoji.md",
     "сервис.md",
-    "dr.md",
-    "рандомная инфа/Сноски.md",
-    "excalidraw test.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "СК SMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "СК SMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "СК SMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "СК SMP.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "Молодые",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,32 +150,32 @@
   },
   "active": "d0271afe61cfc3f9",
   "lastOpenFiles": [
-    "СК SMP.md",
-    "Сигма крафт.md",
-    "Идеи для СК 2.md",
-    "список цитат макща.md",
-    "Молодые(еблан) сезоны.md",
-    "Модовые сезоны.md",
-    "Academy.md",
-    "Cервис.md",
-    "DogDork.md",
-    "University.md",
-    "СК-games.md",
-    "рандомная инфа/Очень важные заметки.md",
-    "Макщ.md",
-    "Островной сезон.md",
-    "Ayanokoji.md",
-    "Связанные личности.md",
-    "Лица не вошедшие в состав СК.md",
-    "Бюро ивентов СК.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "рандомная инфа/Теги.md",
     "рандомная инфа/Сноски.md",
     "рандомная инфа/Git.md",
     "рандомная инфа/Словарь.md",
-    "excalidraw test.md",
-    "рандомная инфа/полезные ссылки.md",
+    "Прото-сервис.md",
+    "Cервис.md",
+    "Academy.md",
+    "Треш сборка.md",
+    "список цитат макща.md",
+    "СК-games.md",
+    "СК SMP.md",
+    "Сигма крафт.md",
+    "Связанные личности.md",
+    "Макщ.md",
+    "Модовые сезоны.md",
+    "University.md",
+    "Лайтовая рпг сборочка.md",
+    "Бюро ивентов СК.md",
+    "Идеи для СК 2.md",
+    "рандомная инфа/Теги.md",
+    "Terra firma.md",
+    "Молодые(еблан) сезоны.md",
+    "DogDork.md",
+    "рандомная инфа/Очень важные заметки.md",
+    "Островной сезон.md",
+    "Ayanokoji.md",
+    "Лица не вошедшие в состав СК.md",
     "Excalidraw",
     "рандомная инфа"
   ]

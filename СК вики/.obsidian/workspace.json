@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0efa9d44e62872d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cервис.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f0a631a9e2e4681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2064fc036bed10f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Суд над стасом..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -131,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University.md",
+                "file": "Суд над стасом..md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University.md",
+                "file": "Суд над стасом..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University.md"
+                "file": "Суд над стасом..md"
               }
             }
           }
@@ -209,8 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd42b02725da4243",
+  "active": "2064fc036bed10f9",
   "lastOpenFiles": [
+    "University.md",
+    "Суд над стасом..md",
     "Terra firma.md",
     "conflict-files-obsidian-git.md",
     "Cервис.md",
@@ -221,22 +259,20 @@
     "СК SMP.md",
     "Сигма крафт.md",
     "Связанные личности.md",
+    "Рома Осипов.md",
     "Прото-сервис.md",
+    "Островной сезон.md",
     "Модовые сезоны.md",
     "Макщ.md",
     "Лайтовая рпг сборочка.md",
-    "Идеи для СК 2.md",
     "Бюро ивентов СК.md",
-    "University.md",
+    "Идеи для СК 2.md",
     "[СборОчка.md",
     "Враги СК.md",
     "DogDork.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "прото-сервис.md",
     "Лица не вошедшие в состав СК.md",
-    "Островной сезон.md",
-    "Ayanokoji.md",
-    "сервис.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

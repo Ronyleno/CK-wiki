@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4f0fb7222e60a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra firma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Суд над стасом..md",
+                "file": "Terra firma.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Суд над стасом..md",
+                "file": "Terra firma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Суд над стасом..md"
+                "file": "Terra firma.md"
               }
             }
           }
@@ -245,12 +257,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2064fc036bed10f9",
+  "active": "f4f0fb7222e60a60",
   "lastOpenFiles": [
     "University.md",
+    "conflict-files-obsidian-git.md",
     "Суд над стасом..md",
     "Terra firma.md",
-    "conflict-files-obsidian-git.md",
     "Cервис.md",
     "Academy.md",
     "Треш сборка.md",

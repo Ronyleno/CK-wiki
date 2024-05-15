@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Макщ.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Макщ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Макщ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Островной сезон.md"
+                "file": "Макщ.md"
               }
             }
           },
@@ -150,8 +150,8 @@
   },
   "active": "d0271afe61cfc3f9",
   "lastOpenFiles": [
-    "Прото-сервис.md",
     "Островной сезон.md",
+    "Прото-сервис.md",
     "Cервис.md",
     "Рома Осипов.md",
     "Сигма крафт.md",

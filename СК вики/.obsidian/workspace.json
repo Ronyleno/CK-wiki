@@ -148,9 +148,21 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "2d0578625f8a8dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -279,8 +291,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "395f94417e4fe7b5",
+  "active": "2d0578625f8a8dca",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "СК SMP.md",
     "СК-games.md",
     "СК-хата.md",
@@ -296,7 +309,6 @@
     "image.webp",
     "Terra firma.md",
     "University.md",
-    "conflict-files-obsidian-git.md",
     "Cервис.md",
     "Academy.md",
     "Треш сборка.md",

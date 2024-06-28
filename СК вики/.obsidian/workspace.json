@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Сигма крафт.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,12 +85,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Сигма крафт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "гимн",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Сигма крафт.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +149,22 @@
   },
   "active": "eceaeedad4af386e",
   "lastOpenFiles": [
+    "первый гимн СК.mp3.md",
+    "Сигма крафт.md",
+    "Связанные личности.md",
+    "Макщ.md",
+    "Модовые сезоны.md",
+    "Островной сезон.md",
+    "Палаточный сезон.md",
+    "файлы/image 3.webp",
+    "Суд над стасом..md",
+    "файлы/image 5.webp",
+    "список цитат макща.md",
+    "файлы/12.webp",
+    "файлы/image 4.webp",
+    "первый гимн СК.md",
+    "Бюро ивентов СК.md",
+    "гимн.md",
     "conflict-files-obsidian-git.md"
   ]
 }

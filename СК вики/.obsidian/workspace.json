@@ -13,11 +13,24 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "12.webp"
+                "file": "файлы/12.webp"
+              }
+            }
+          },
+          {
+            "id": "c7677b809bff90b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сигма крафт.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12.webp",
+                "file": "Сигма крафт.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12.webp",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12.webp"
+                "file": "Сигма крафт.md"
               }
             }
           }
@@ -146,41 +159,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fac1e1633c871031",
+  "active": "c7677b809bff90b5",
   "lastOpenFiles": [
+    "Суд над стасом..md",
+    "Треш сборка.md",
+    "Academy.md",
+    "Cервис.md",
+    "conflict-files-obsidian-git.md",
+    "fratho.md",
+    "Terra firma.md",
     "University.md",
-    "image.webp",
-    "image 1.webp",
-    "image 2.webp",
-    "image 4.webp",
-    "image 5.webp",
-    "image 3.webp",
+    "файлы/12.webp",
+    "файлы/image.webp",
+    "файлы/image 2.webp",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3.mp3",
+    "файлы/Первый гимн.mp3.mp3",
+    "файлы",
+    "первый гимн СК.md",
+    "первый гимн СК(ссылка на песню).md",
+    "гимн.md",
+    "гимн(ссылка на первый гимн ск).md",
+    "Палаточный сезон.md",
+    "Лица не вошедшие в состав СК.md",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 3.mp3",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
+    "файлы/image 1.webp",
+    "файлы/image 4.webp",
+    "файлы/image 5.webp",
+    "файлы/image 3.webp",
     "рандомная инфа/Теги.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
     "Сигма крафт.md",
-    "Суд над стасом..md",
-    "conflict-files-obsidian-git.md",
     "СК SMP.md",
     "СК-games.md",
     "СК-хата.md",
-    "12.webp",
-    "Pasted image 20240516214057.png",
-    "Terra firma.md",
-    "Cервис.md",
-    "Academy.md",
-    "Треш сборка.md",
+    "файлы/Pasted image 20240516214057.png",
     "список цитат макща.md",
     "Связанные личности.md",
     "Рома Осипов.md",
     "Прото-сервис.md",
-    "Островной сезон.md",
-    "Модовые сезоны.md",
-    "Макщ.md",
-    "Лайтовая рпг сборочка.md",
-    "Бюро ивентов СК.md",
-    "Идеи для СК 2.md",
-    "[СборОчка.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

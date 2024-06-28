@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Бюро ивентов СК.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,8 @@
               "type": "backlink",
               "state": {
                 "file": "Сигма крафт.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "r",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Бюро ивентов СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Бюро ивентов СК.md"
               }
             }
           }
@@ -161,9 +161,8 @@
   },
   "active": "c7677b809bff90b5",
   "lastOpenFiles": [
-    "Суд над стасом..md",
-    "Треш сборка.md",
-    "Academy.md",
+    "гимн.md",
+    "Сигма крафт.md",
     "Cервис.md",
     "conflict-files-obsidian-git.md",
     "fratho.md",

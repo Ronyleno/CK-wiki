@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1204cabd767bb91",
+        "id": "925fbc4b97854a76",
         "type": "tabs",
         "children": [
           {
-            "id": "d0271afe61cfc3f9",
+            "id": "403c5c01254e916a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СК-games.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e78bfd422d9c924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Сигма крафт.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Сигма крафт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бюро ивентов СК.md"
+                "file": "Сигма крафт.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Молодые",
+                "query": "ded",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,34 +148,41 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4e78bfd422d9c924",
+  "active": "403c5c01254e916a",
   "lastOpenFiles": [
-    "Лайтовая рпг сборочка.md",
+    "гимн.md",
+    "Сигма крафт.md",
+    "Cервис.md",
+    "fratho.md",
+    "Academy.md",
+    "Островной сезон.md",
+    "goool.mp3",
+    "Прото-сервис.md",
+    "Палаточный сезон.md",
+    "первый гимн СК.md",
+    "файлы/Первый гимн.mp3.mp3",
+    "Суд над стасом..md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "файлы",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 3.mp3",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
+    "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3.mp3",
+    "первый гимн СК(ссылка на песню).md",
+    "гимн(ссылка на первый гимн ск).md",
     "СК SMP.md",
+    "Макщ.md",
+    "рандомная инфа/Теги.md",
+    "Бюро ивентов СК.md",
+    "Лица не вошедшие в состав СК.md",
+    "СК-games.md",
+    "список цитат макща.md",
+    "Треш сборка.md",
+    "рандомная инфа/Очень важные заметки.md",
+    "Модовые сезоны.md",
+    "Лайтовая рпг сборочка.md",
     "University.md",
     "Связанные личности.md",
-    "Рома Осипов.md",
-    "список цитат макща.md",
-    "Суд над стасом..md",
-    "Треш сборка.md",
-    "Academy.md",
-    "Cервис.md",
-    "Terra firma.md",
-    "рандомная инфа/Очень важные заметки.md",
-    "Бюро ивентов СК.md",
-    "Макщ.md",
-    "Модовые сезоны.md",
-    "Островной сезон.md",
-    "Прото-сервис.md",
-    "Сигма крафт.md",
-    "СК-games.md",
-    "рандомная инфа/Сноски.md",
-    "рандомная инфа/Git.md",
-    "рандомная инфа/Словарь.md",
-    "Идеи для СК 2.md",
-    "рандомная инфа/Теги.md",
-    "Молодые(еблан) сезоны.md",
-    "DogDork.md",
     "Excalidraw",
     "рандомная инфа"
   ]

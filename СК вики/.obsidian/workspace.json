@@ -11,158 +11,13 @@
             "id": "fac1e1633c871031",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "045ae116e09cf7e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d0947063d99004d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cервис.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff6397ed12c01dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a5fbce5436be1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd42b02725da4243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0efa9d44e62872d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cервис.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f0a631a9e2e4681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2064fc036bed10f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Суд над стасом..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f0fb7222e60a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c550eab8fa0b7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сигма крафт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395f94417e4fe7b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "2d0578625f8a8dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "12.webp"
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "12.webp",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -245,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "12.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "12.webp"
               }
             }
           }
@@ -291,24 +146,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d0578625f8a8dca",
+  "active": "fac1e1633c871031",
   "lastOpenFiles": [
+    "University.md",
+    "image.webp",
+    "image 1.webp",
+    "image 2.webp",
+    "image 4.webp",
+    "image 5.webp",
+    "image 3.webp",
+    "рандомная инфа/Теги.md",
+    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
+    "Сигма крафт.md",
+    "Суд над стасом..md",
     "conflict-files-obsidian-git.md",
     "СК SMP.md",
     "СК-games.md",
     "СК-хата.md",
-    "Сигма крафт.md",
-    "Суд над стасом..md",
     "12.webp",
     "Pasted image 20240516214057.png",
-    "image 5.webp",
-    "image 4.webp",
-    "image 3.webp",
-    "image 2.webp",
-    "image 1.webp",
-    "image.webp",
     "Terra firma.md",
-    "University.md",
     "Cервис.md",
     "Academy.md",
     "Треш сборка.md",
@@ -323,10 +181,6 @@
     "Бюро ивентов СК.md",
     "Идеи для СК 2.md",
     "[СборОчка.md",
-    "Враги СК.md",
-    "DogDork.md",
-    "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
-    "прото-сервис.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

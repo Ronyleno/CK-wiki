@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "первый гимн СК(ссылка на песню).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,9 +81,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "первый гимн СК(ссылка на песню).md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "r",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бюро ивентов СК.md",
+                "file": "первый гимн СК(ссылка на песню).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бюро ивентов СК.md"
+                "file": "первый гимн СК(ссылка на песню).md"
               }
             }
           }
@@ -161,8 +161,16 @@
   },
   "active": "c7677b809bff90b5",
   "lastOpenFiles": [
+    "первый гимн СК.md",
+    "Макщ.md",
+    "гимн(ссылка на первый гимн ск).md",
     "гимн.md",
+    "Лайтовая рпг сборочка.md",
+    "Лица не вошедшие в состав СК.md",
     "Сигма крафт.md",
+    "Суд над стасом..md",
+    "Треш сборка.md",
+    "Academy.md",
     "Cервис.md",
     "conflict-files-obsidian-git.md",
     "fratho.md",
@@ -174,12 +182,8 @@
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3.mp3",
     "файлы/Первый гимн.mp3.mp3",
     "файлы",
-    "первый гимн СК.md",
     "первый гимн СК(ссылка на песню).md",
-    "гимн.md",
-    "гимн(ссылка на первый гимн ск).md",
     "Палаточный сезон.md",
-    "Лица не вошедшие в состав СК.md",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 3.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
@@ -190,7 +194,6 @@
     "рандомная инфа/Теги.md",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
-    "Сигма крафт.md",
     "СК SMP.md",
     "СК-games.md",
     "СК-хата.md",
@@ -198,7 +201,6 @@
     "список цитат макща.md",
     "Связанные личности.md",
     "Рома Осипов.md",
-    "Прото-сервис.md",
     "Pasted Image 20240428195515_416.jpg",
     "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",

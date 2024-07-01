@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Палаточный сезон.md"
               }
             }
           }
@@ -149,22 +149,29 @@
   },
   "active": "eceaeedad4af386e",
   "lastOpenFiles": [
+    "первый гимн СК.md",
     "первый гимн СК.mp3.md",
+    "первый гимн СК(ссылка на песню).md",
+    "Прото-сервис.md",
+    "Cервис.md",
+    "conflict-files-obsidian-git.md",
+    "fratho.md",
+    "Terra firma.md",
+    "University.md",
+    "файлы/image 2.webp",
+    "файлы/image 3.webp",
     "Сигма крафт.md",
     "Связанные личности.md",
     "Макщ.md",
     "Модовые сезоны.md",
     "Островной сезон.md",
     "Палаточный сезон.md",
-    "файлы/image 3.webp",
     "Суд над стасом..md",
     "файлы/image 5.webp",
     "список цитат макща.md",
     "файлы/12.webp",
     "файлы/image 4.webp",
-    "первый гимн СК.md",
     "Бюро ивентов СК.md",
-    "гимн.md",
-    "conflict-files-obsidian-git.md"
+    "гимн.md"
   ]
 }

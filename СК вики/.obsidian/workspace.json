@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "первый гимн СК.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "первый гимн СК.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "первый гимн СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "первый гимн СК.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c7677b809bff90b5",
   "lastOpenFiles": [
-    "Островной сезон.md",
     "Сигма крафт.md",
+    "Островной сезон.md",
     "гимн(ссылка на первый гимн ск).md",
     "гимн.md",
     "Лайтовая рпг сборочка.md",

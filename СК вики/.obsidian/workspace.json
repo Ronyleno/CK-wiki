@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "первый гимн СК.md",
+                "file": "Сигма крафт.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "первый гимн СК.md",
+                "file": "Сигма крафт.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "первый гимн СК.md",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "первый гимн СК.md"
+                "file": "Сигма крафт.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "c7677b809bff90b5",
   "lastOpenFiles": [
+    "первый гимн СК.md",
     "Сигма крафт.md",
     "Островной сезон.md",
     "гимн(ссылка на первый гимн ск).md",
@@ -170,7 +171,6 @@
     "Суд над стасом..md",
     "Треш сборка.md",
     "Academy.md",
-    "первый гимн СК.md",
     "Палаточный сезон.md",
     "Модовые сезоны.md",
     "Макщ.md",

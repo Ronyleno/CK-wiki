@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Второй гимн СК.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Второй гимн СК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Второй гимн СК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Палаточный сезон.md"
+                "file": "Второй гимн СК.md"
               }
             }
           }
@@ -149,7 +149,14 @@
   },
   "active": "eceaeedad4af386e",
   "lastOpenFiles": [
-    "первый гимн СК.md",
+    "Символы СК.md",
+    "Первый гимн СК.md",
+    "Второй гимн СК.md",
+    "СК-хата.md",
+    "Сигма крафт.md",
+    "гимн.md",
+    "файлы/Гимн майнкрафта.mp3",
+    "Палаточный сезон.md",
     "первый гимн СК.mp3.md",
     "первый гимн СК(ссылка на песню).md",
     "Прото-сервис.md",
@@ -160,18 +167,15 @@
     "University.md",
     "файлы/image 2.webp",
     "файлы/image 3.webp",
-    "Сигма крафт.md",
     "Связанные личности.md",
     "Макщ.md",
     "Модовые сезоны.md",
     "Островной сезон.md",
-    "Палаточный сезон.md",
     "Суд над стасом..md",
     "файлы/image 5.webp",
     "список цитат макща.md",
     "файлы/12.webp",
     "файлы/image 4.webp",
-    "Бюро ивентов СК.md",
-    "гимн.md"
+    "Бюро ивентов СК.md"
   ]
 }

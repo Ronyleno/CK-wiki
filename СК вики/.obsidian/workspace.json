@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прото-сервис.md",
-                "mode": "preview",
+                "file": "Островной сезон.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прото-сервис.md",
+                "file": "Островной сезон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прото-сервис.md",
+                "file": "Островной сезон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прото-сервис.md"
+                "file": "Островной сезон.md"
               }
             }
           }
@@ -150,33 +151,42 @@
   },
   "active": "214df5046a6030ac",
   "lastOpenFiles": [
-    "Сервис.md",
-    "Сигма крафт.md",
-    "Связанные личности.md",
-    "Символы СК.md",
     "Прото-сервис.md",
-    "первый гимн СК.mp3.md",
-    "Первый гимн СК.md",
-    "Палаточный сезон.md",
     "Островной сезон.md",
-    "Модовые сезоны.md",
-    "Макщ.md",
-    "Лайтовая рпг сборочка.md",
-    "гимн(ссылка на первый гимн ск).md",
-    "гимн.md",
-    "Второй гимн СК.md",
+    "Сервис.md",
+    "файлы/Прото-сервис.jpg",
+    "Сигма крафт.md",
+    "Нынешний гимн СК.md",
     "Бюро ивентов СК.md",
     "Без названия.canvas",
-    "2024-07-01.md",
+    "файлы/12.webp",
+    "файлы/Гимн майнкрафта.mp3",
+    "файлы/Первый гимн.mp3.mp3",
+    "файлы/image.webp",
+    "файлы/image 1.webp",
+    "файлы/image 2.webp",
+    "файлы/image 3.webp",
+    "файлы/image 4.webp",
+    "файлы/image 5.webp",
+    "файлы/Pasted image 20240516214057.png",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
-    "файлы/Pasted image 20240516214057.png",
-    "файлы/image 5.webp",
-    "файлы/image 4.webp",
-    "файлы/image 3.webp",
-    "файлы/image 2.webp",
-    "файлы/image 1.webp",
-    "файлы/12.webp",
-    "conflict-files-obsidian-git.md"
+    "Символы СК.md",
+    "Связанные личности.md",
+    "СК SMP.md",
+    "Модовые сезоны.md",
+    "Треш сборка.md",
+    "University.md",
+    "Лайтовая рпг сборочка.md",
+    "Terra firma.md",
+    "Academy.md",
+    "СК-games.md",
+    "Палаточный сезон.md",
+    "fratho.md",
+    "первый гимн СК.mp3.md",
+    "Первый гимн СК.md",
+    "Макщ.md",
+    "гимн(ссылка на первый гимн ск).md",
+    "гимн.md"
   ]
 }

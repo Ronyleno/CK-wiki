@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4f5f56bdba68bc8d",
+    "id": "7c6791165c5c3639",
     "type": "split",
     "children": [
       {
-        "id": "fae83d5856b29e05",
+        "id": "f033557ee4f832af",
         "type": "tabs",
         "children": [
           {
-            "id": "eceaeedad4af386e",
+            "id": "214df5046a6030ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Символы СК.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5a48e271aa2425b",
+    "id": "3d78a271e01969bd",
     "type": "split",
     "children": [
       {
-        "id": "90ccc2687b497ac5",
+        "id": "5c8ecb865c57c790",
         "type": "tabs",
         "children": [
           {
-            "id": "e6bd4327816a8654",
+            "id": "3e0fc46a2b11e840",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "aed9f9ad526faefa",
+            "id": "342f1327c23a86a5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "70a6d8b176059763",
+            "id": "d4d2137e423d4646",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "dd62edf9d61e2e68",
+    "id": "d0de6297f806e829",
     "type": "split",
     "children": [
       {
-        "id": "51a9e34cf8941555",
+        "id": "abd9c2413b7fd241",
         "type": "tabs",
         "children": [
           {
-            "id": "5fabfe7e2f8a0f1a",
+            "id": "dc265722de11391a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Символы СК.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "#",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae1d9d2b672c1677",
+            "id": "5656c9e03851c156",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Символы СК.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a1192af570a26e42",
+            "id": "dcca27a29f159b4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "adbb18c1d2f12903",
+            "id": "3410c40bed75381d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Символы СК.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -133,54 +133,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "eceaeedad4af386e",
+  "active": "214df5046a6030ac",
   "lastOpenFiles": [
-    "Третий гимн СК.md",
-    "Символы СК.md",
-    "Второй гимн СК.md",
-    "Сигма крафт.md",
-    "Сервис.md",
-    "Первый гимн СК.md",
-    "Без названия.canvas",
-    "2024-07-01.md",
-    "рандомная инфа/Теги.md",
-    "СК-хата.md",
-    "гимн.md",
-    "файлы/Гимн майнкрафта.mp3",
-    "Палаточный сезон.md",
-    "первый гимн СК.mp3.md",
-    "первый гимн СК(ссылка на песню).md",
-    "Прото-сервис.md",
-    "Cервис.md",
-    "conflict-files-obsidian-git.md",
-    "fratho.md",
-    "Terra firma.md",
-    "University.md",
-    "файлы/image 2.webp",
-    "файлы/image 3.webp",
-    "Связанные личности.md",
-    "Макщ.md",
-    "Модовые сезоны.md",
-    "Островной сезон.md",
-    "Суд над стасом..md",
-    "файлы/image 5.webp",
-    "список цитат макща.md",
-    "файлы/12.webp",
-    "файлы/image 4.webp",
-    "Бюро ивентов СК.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модовые сезоны.md",
+                "file": "Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модовые сезоны.md",
+                "file": "Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модовые сезоны.md",
+                "file": "Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модовые сезоны.md"
+                "file": "Academy.md"
               }
             }
           }
@@ -150,20 +150,21 @@
   },
   "active": "6b8dc53dc01addb0",
   "lastOpenFiles": [
-    "Бебрики.md",
-    "CK-хата.md",
-    "University.md",
     "Модовые сезоны.md",
+    "Terra firma.md",
+    "Лайтовая рпг сборочка.md",
+    "University.md",
+    "Vanilla+.md",
     "Треш сборка.md",
+    "Stoneblock.md",
     "Academy.md",
-    "Сигма крафт.md",
-    "Сервис.md",
+    "CK-хата.md",
     "Островной сезон.md",
     "Символы СК.md",
+    "Бебрики.md",
+    "Сигма крафт.md",
+    "Сервис.md",
     "СК SMP.md",
-    "Stoneblock.md",
-    "Terra firma.md",
-    "Vanilla+.md",
     "Прото-сервис.md",
     "2024-07-06.md",
     "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
@@ -184,7 +185,6 @@
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
     "Связанные личности.md",
-    "Лайтовая рпг сборочка.md",
     "СК-games.md",
     "Палаточный сезон.md",
     "fratho.md"

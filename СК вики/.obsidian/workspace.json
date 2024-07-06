@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Палаточный сезон.md",
-                "mode": "source",
+                "file": "Сервис.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Сервис.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Палаточный сезон.md"
+                "file": "Сервис.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "3d9267c88df44437",
   "lastOpenFiles": [
+    "Палаточный сезон.md",
     "Островной сезон.md",
     "Vanilla+.md",
     "Terra firma.md",
@@ -182,7 +183,6 @@
     "Бебрики.md",
     "Stoneblock.md",
     "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
-    "Палаточный сезон.md",
     "Excalidraw/Drawing 2024-07-07 00.46.22.excalidraw.md",
     "Первый гимн СК.md",
     "CK-хата.md",

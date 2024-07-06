@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Макщ.md",
+                "file": "Сервис.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Макщ.md",
+                "file": "Сервис.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Макщ.md",
+                "file": "Сервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Макщ.md"
+                "file": "Сервис.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "3d9267c88df44437",
   "lastOpenFiles": [
+    "Макщ.md",
     "Сервис.md",
     "Палаточный сезон.md",
     "Островной сезон.md",
@@ -201,7 +202,6 @@
     "рандомная инфа/Теги.md",
     "Символы СК.md",
     "conflict-files-obsidian-git.md",
-    "Нынешний гимн СК.md",
     "Без названия.canvas",
     "файлы/12.webp",
     "файлы/Гимн майнкрафта.mp3",

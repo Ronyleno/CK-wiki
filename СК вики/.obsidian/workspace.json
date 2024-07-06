@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d9267c88df44437",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Палаточный сезон.md"
+                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md"
               }
             }
           }
@@ -161,10 +171,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "738bcc8e4ccb5467",
+  "active": "3d9267c88df44437",
   "lastOpenFiles": [
-    "Островной сезон.md",
     "Палаточный сезон.md",
+    "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-07 00.46.22.excalidraw.md",
+    "Второй гимн СК.md",
+    "Первый гимн СК.md",
+    "Островной сезон.md",
     "CK-хата.md",
     "Лайтовая рпг сборочка.md",
     "University.md",
@@ -172,7 +186,6 @@
     "Academy.md",
     "Прото-сервис.md",
     "файлы/Прото-сервис.jpg",
-    "Первый гимн СК.md",
     "Треш сборка.md",
     "Третий гимн СК.md",
     "СК-games.md",
@@ -187,9 +200,6 @@
     "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
     "2024-07-06.md",
     "Бебрики.md",
-    "Второй гимн СК.md",
-    "Бюро ивентов СК.md",
-    "рандомная инфа/Git.md",
     "Без названия.canvas",
     "файлы/12.webp",
     "файлы/Гимн майнкрафта.mp3",

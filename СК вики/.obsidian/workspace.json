@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "738bcc8e4ccb5467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сигма крафт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Первый гимн СК.md",
+                "file": "Сигма крафт.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Первый гимн СК.md",
+                "file": "Сигма крафт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Первый гимн СК.md"
+                "file": "Сигма крафт.md"
               }
             }
           }
@@ -148,8 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19b910faa802fb4d",
+  "active": "738bcc8e4ccb5467",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Первый гимн СК.md",
+    "файлы/Прото-сервис.jpg",
+    "Третий гимн СК.md",
+    "Нынешний гимн СК.md",
+    "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
+    "2024-07-06.md",
     "Сигма крафт.md",
     "Бебрики.md",
     "Второй гимн СК.md",
@@ -165,7 +185,6 @@
     "fratho.md",
     "Academy.md",
     "Модовые сезоны.md",
-    "Первый гимн СК.md",
     "Без названия.canvas",
     "2024-07-01.md",
     "первый гимн СК.mp3.md",
@@ -173,12 +192,6 @@
     "гимн.md",
     "файлы/12.webp",
     "файлы/Гимн майнкрафта.mp3",
-    "первый гимн СК.md",
-    "Островной сезон.md",
-    "гимн(ссылка на первый гимн ск).md",
-    "Лайтовая рпг сборочка.md",
-    "список цитат макща.md",
-    "Суд над стасом..md",
     "файлы/Первый гимн.mp3.mp3",
     "файлы/image.webp",
     "файлы/image 1.webp",
@@ -193,7 +206,6 @@
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
     "Pasted Image 20240428195515_416.jpg",
-    "Pasted Image 20240428194317_442.png",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
     "Excalidraw",
     "Untitled.canvas",

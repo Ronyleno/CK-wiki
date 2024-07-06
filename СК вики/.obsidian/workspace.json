@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ок",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сигма крафт.md",
+                "file": "Палаточный сезон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сигма крафт.md"
+                "file": "Палаточный сезон.md"
               }
             }
           }
@@ -163,33 +163,34 @@
   },
   "active": "738bcc8e4ccb5467",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Первый гимн СК.md",
+    "Островной сезон.md",
+    "Палаточный сезон.md",
+    "CK-хата.md",
+    "Лайтовая рпг сборочка.md",
+    "University.md",
+    "Terra firma.md",
+    "Academy.md",
+    "Прото-сервис.md",
     "файлы/Прото-сервис.jpg",
+    "Первый гимн СК.md",
+    "Треш сборка.md",
     "Третий гимн СК.md",
+    "СК-games.md",
+    "Сигма крафт.md",
+    "Связанные личности.md",
+    "рандомная инфа/Сноски.md",
+    "Сервис.md",
+    "рандомная инфа/Теги.md",
+    "Символы СК.md",
+    "conflict-files-obsidian-git.md",
     "Нынешний гимн СК.md",
     "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
     "2024-07-06.md",
-    "Сигма крафт.md",
     "Бебрики.md",
     "Второй гимн СК.md",
     "Бюро ивентов СК.md",
     "рандомная инфа/Git.md",
-    "рандомная инфа/Теги.md",
-    "рандомная инфа/Сноски.md",
-    "рандомная инфа/Словарь.md",
-    "рандомная инфа/полезные ссылки.md",
-    "рандомная инфа/Очень важные заметки.md",
-    "СК-games.md",
-    "Прото-сервис.md",
-    "fratho.md",
-    "Academy.md",
-    "Модовые сезоны.md",
     "Без названия.canvas",
-    "2024-07-01.md",
-    "первый гимн СК.mp3.md",
-    "Символы СК.md",
-    "гимн.md",
     "файлы/12.webp",
     "файлы/Гимн майнкрафта.mp3",
     "файлы/Первый гимн.mp3.mp3",

@@ -35,9 +35,11 @@
             "id": "3d9267c88df44437",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md"
+                "file": "Бебрики.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
+                "file": "Бебрики.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
+                "file": "Бебрики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md"
+                "file": "Бебрики.md"
               }
             }
           }
@@ -171,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d9267c88df44437",
+  "active": "19b910faa802fb4d",
   "lastOpenFiles": [
-    "Палаточный сезон.md",
     "Excalidraw/Drawing 2024-07-07 00.46.35.excalidraw.md",
+    "Палаточный сезон.md",
     "Excalidraw/Drawing 2024-07-07 00.46.22.excalidraw.md",
     "Второй гимн СК.md",
     "Первый гимн СК.md",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сервис.md",
+                "file": "Макщ.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сервис.md",
+                "file": "Макщ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "макщ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сервис.md",
+                "file": "Макщ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сервис.md"
+                "file": "Макщ.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "3d9267c88df44437",
   "lastOpenFiles": [
+    "Сервис.md",
     "Палаточный сезон.md",
     "Островной сезон.md",
     "Vanilla+.md",
@@ -197,7 +198,6 @@
     "Сигма крафт.md",
     "Связанные личности.md",
     "рандомная инфа/Сноски.md",
-    "Сервис.md",
     "рандомная инфа/Теги.md",
     "Символы СК.md",
     "conflict-files-obsidian-git.md",

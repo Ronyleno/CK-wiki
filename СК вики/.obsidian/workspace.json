@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "МакЩ.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "МакЩ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Палаточный сезон.md",
+                "file": "МакЩ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Палаточный сезон.md"
+                "file": "МакЩ.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,59 +157,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "738bcc8e4ccb5467",
   "lastOpenFiles": [
     "Островной сезон.md",
-    "Палаточный сезон.md",
-    "CK-хата.md",
-    "Лайтовая рпг сборочка.md",
+    "Прото-сервис.md",
+    "Сигма крафт.md",
+    "Символы СК.md",
+    "файлы/123_page-0001.jpg",
+    "123.pdf",
+    "файлы/Pasted image 20240516214057.png",
+    "МакЩ.md",
+    "123.jfif",
+    "СК 1,5.md",
+    "Первый гимн СК.md",
     "University.md",
     "Terra firma.md",
+    "CK-хата.md",
     "Academy.md",
-    "Прото-сервис.md",
-    "файлы/Прото-сервис.jpg",
-    "Первый гимн СК.md",
     "Треш сборка.md",
     "Третий гимн СК.md",
-    "СК-games.md",
-    "Сигма крафт.md",
-    "Связанные личности.md",
-    "рандомная инфа/Сноски.md",
+    "Суд над стасом..md",
+    "список цитат макща.md",
+    "СК SMP.md",
     "Сервис.md",
-    "рандомная инфа/Теги.md",
-    "Символы СК.md",
-    "conflict-files-obsidian-git.md",
-    "Нынешний гимн СК.md",
-    "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
-    "2024-07-06.md",
-    "Бебрики.md",
+    "Модовые сезоны.md",
+    "Палаточный сезон.md",
+    "Лайтовая рпг сборочка.md",
+    "гимн(ссылка на первый гимн ск).md",
+    "гимн.md",
     "Второй гимн СК.md",
     "Бюро ивентов СК.md",
-    "рандомная инфа/Git.md",
-    "Без названия.canvas",
-    "файлы/12.webp",
-    "файлы/Гимн майнкрафта.mp3",
-    "файлы/Первый гимн.mp3.mp3",
-    "файлы/image.webp",
-    "файлы/image 1.webp",
-    "файлы/image 2.webp",
-    "файлы/image 3.webp",
-    "файлы/image 4.webp",
+    "Бебрики.md",
+    "2024-07-06.md",
     "файлы/image 5.webp",
-    "файлы/Pasted image 20240516214057.png",
+    "файлы/image 4.webp",
+    "файлы/image 3.webp",
+    "файлы/image 2.webp",
+    "файлы/image 1.webp",
+    "файлы/image.webp",
+    "файлы/Прото-сервис.jpg",
+    "файлы/Первый гимн.mp3.mp3",
+    "файлы/Гимн майнкрафта.mp3",
+    "файлы/12.webp",
+    "Без названия.canvas",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3.mp3",
     "файлы",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 3.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
-    "Pasted Image 20240428195515_416.jpg",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
-    "Excalidraw",
-    "Untitled.canvas",
-    "рандомная инфа"
+    "Untitled.canvas"
   ]
 }

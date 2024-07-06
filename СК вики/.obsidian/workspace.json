@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Модовые сезоны.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#ok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Модовые сезоны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Островной сезон.md",
+                "file": "Модовые сезоны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Островной сезон.md"
+                "file": "Модовые сезоны.md"
               }
             }
           }
@@ -150,12 +150,21 @@
   },
   "active": "6b8dc53dc01addb0",
   "lastOpenFiles": [
-    "Сервис.md",
-    "Прото-сервис.md",
+    "University.md",
+    "Модовые сезоны.md",
+    "Треш сборка.md",
+    "Academy.md",
     "Сигма крафт.md",
+    "Сервис.md",
+    "Островной сезон.md",
+    "Символы СК.md",
+    "СК SMP.md",
+    "Stoneblock.md",
+    "Terra firma.md",
+    "Vanilla+.md",
+    "Прото-сервис.md",
     "2024-07-06.md",
     "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
-    "Островной сезон.md",
     "файлы/Прото-сервис.jpg",
     "Нынешний гимн СК.md",
     "Бюро ивентов СК.md",
@@ -172,21 +181,12 @@
     "файлы/Pasted image 20240516214057.png",
     "Excalidraw/Drawing 2024-04-28 19.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.24.29.excalidraw.md",
-    "Символы СК.md",
     "Связанные личности.md",
-    "СК SMP.md",
-    "Модовые сезоны.md",
-    "Треш сборка.md",
-    "University.md",
     "Лайтовая рпг сборочка.md",
-    "Terra firma.md",
-    "Academy.md",
     "СК-games.md",
     "Палаточный сезон.md",
     "fratho.md",
     "первый гимн СК.mp3.md",
-    "Первый гимн СК.md",
-    "Макщ.md",
-    "гимн(ссылка на первый гимн ск).md"
+    "Первый гимн СК.md"
   ]
 }

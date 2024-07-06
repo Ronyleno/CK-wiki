@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f033557ee4f832af",
+        "id": "3dffbd6660561f09",
         "type": "tabs",
         "children": [
           {
-            "id": "214df5046a6030ac",
+            "id": "6b8dc53dc01addb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,13 +148,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "214df5046a6030ac",
+  "active": "6b8dc53dc01addb0",
   "lastOpenFiles": [
-    "Прото-сервис.md",
-    "Островной сезон.md",
     "Сервис.md",
-    "файлы/Прото-сервис.jpg",
+    "Прото-сервис.md",
     "Сигма крафт.md",
+    "2024-07-06.md",
+    "Excalidraw/Drawing 2024-07-06 14.14.26.excalidraw.md",
+    "Островной сезон.md",
+    "файлы/Прото-сервис.jpg",
     "Нынешний гимн СК.md",
     "Бюро ивентов СК.md",
     "Без названия.canvas",
@@ -186,7 +187,6 @@
     "первый гимн СК.mp3.md",
     "Первый гимн СК.md",
     "Макщ.md",
-    "гимн(ссылка на первый гимн ск).md",
-    "гимн.md"
+    "гимн(ссылка на первый гимн ск).md"
   ]
 }

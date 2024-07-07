@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сервис.md",
-                "mode": "preview",
+                "file": "Треш сборка.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сервис.md",
+                "file": "Треш сборка.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сервис.md",
+                "file": "Треш сборка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сервис.md"
+                "file": "Треш сборка.md"
               }
             }
           }
@@ -175,15 +175,24 @@
   },
   "active": "3d9267c88df44437",
   "lastOpenFiles": [
-    "файлы/123_page-0001.jpg",
-    "МакЩ.md",
-    "123.jfif",
-    "Макщ.md",
+    "Модовые сезоны.md",
+    "University.md",
+    "Лайтовая рпг сборочка.md",
+    "Terra firma.md",
+    "Academy.md",
+    "СК SMP.md",
     "Сервис.md",
     "Палаточный сезон.md",
     "Островной сезон.md",
+    "Прото-сервис.md",
+    "СК-games.md",
+    "Сигма крафт.md",
+    "Символы СК.md",
+    "МакЩ.md",
+    "файлы/123_page-0001.jpg",
+    "123.jfif",
+    "Макщ.md",
     "Vanilla+.md",
-    "Terra firma.md",
     "Второй гимн СК.md",
     "Бебрики.md",
     "Stoneblock.md",
@@ -191,18 +200,10 @@
     "Excalidraw/Drawing 2024-07-07 00.46.22.excalidraw.md",
     "Первый гимн СК.md",
     "CK-хата.md",
-    "Лайтовая рпг сборочка.md",
-    "University.md",
-    "Academy.md",
-    "Прото-сервис.md",
     "файлы/Прото-сервис.jpg",
     "Треш сборка.md",
     "Третий гимн СК.md",
-    "СК-games.md",
-    "Сигма крафт.md",
     "Связанные личности.md",
-    "рандомная инфа/Сноски.md",
-    "рандомная инфа/Теги.md",
     "Без названия.canvas",
     "файлы/12.webp",
     "файлы/Гимн майнкрафта.mp3",
@@ -219,7 +220,6 @@
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 3.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 2.mp3",
     "zahar-ya-sigma-krutoj-krutoj-ya-sigma-mp3 1.mp3",
-    "Pasted Image 20240428195515_416.jpg",
     "Drawing 2024-04-28 19.31.28.excalidraw.excalidraw",
     "Excalidraw",
     "Untitled.canvas"

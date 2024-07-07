@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прото-сервис.md",
+                "file": "Треш сборка.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прото-сервис.md",
+                "file": "Треш сборка.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прото-сервис.md",
+                "file": "Треш сборка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прото-сервис.md"
+                "file": "Треш сборка.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "3d9267c88df44437",
   "lastOpenFiles": [
+    "Прото-сервис.md",
     "Символы СК.md",
     "СК SMP.md",
     "СК-games.md",
@@ -195,7 +196,6 @@
     "Сервис.md",
     "Палаточный сезон.md",
     "Островной сезон.md",
-    "Прото-сервис.md",
     "МакЩ.md",
     "файлы/123_page-0001.jpg",
     "123.jfif",
